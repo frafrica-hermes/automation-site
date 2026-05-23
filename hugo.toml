@@ -3,6 +3,9 @@ baseURL = 'https://ai-automation-tools-six.vercel.app/'
 languageCode = 'en-us'
 title = 'AI Automation Hub 2026'
 
+[params]
+  mainSections = ["posts"]
+
 [build]
   buildDrafts = true
   buildFuture = true
